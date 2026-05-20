@@ -15,7 +15,7 @@ A structured AI prompt that analyzes spoken communication from meeting transcrip
 1. Record a meeting (with consent from all participants)
 2. Get the transcript (Teams, Zoom, Otter, or any transcription tool)
 3. Copy the full prompt from [`prompt.md`](prompt.md)
-4. Paste it into your AI tool, then paste your transcript after it
+4. Paste it into your AI tool, then paste your transcript after it. Best practices to upload atleast 5 transcripts from different meetings
 5. Read the analysis — focus on **Strongest Moments** first, then **Growth Targets**
 
 ### Option B: VS Code Copilot (as a skill)
